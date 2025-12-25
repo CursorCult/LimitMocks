@@ -1,3 +1,11 @@
+# ⚠️ DEPRECATED
+
+This rule has been replaced by [PAPER](https://github.com/CursorCult/PAPER).
+
+PAPER ("Paper-thin Assertions Pathetically Exercising Reality") cleanly subsumes this rule by focusing on behavioral reality rather than implementation details.
+
+---
+
 # LimitMocks
 
 Prefer real dependencies; use mocks sparingly.
